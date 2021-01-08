@@ -6,7 +6,7 @@ gems:
 # Site settings
 title: "Jin Container"
 description: > # this means to ignore newlines until "email:"
-   Study Record - java, android
+   Study Record - JAVA, HTML, CSS, JS, Android Studio
 
 email: a-mail@mail.mail
 #blog logo
