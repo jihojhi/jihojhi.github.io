@@ -4,9 +4,9 @@ gems:
   - jekyll-paginate
 
 # Site settings
-title: "Jiny Container"
+title: "JinyStudyBox"
 description: > # this means to ignore newlines until "email:"
-   A Jekyll theme - Medium inspired
+   기억하기 보단 기록으로 남기자
 
 email: jihojhi@gmail.com
 #blog logo
@@ -25,14 +25,7 @@ paginate:	5
 url: "http://myblog.***.***" # the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards
-twitter_handle: '@dirkfabisch'
 
-#fill in disqus shortname to use disqus
-#disqus: disqus-shortname
-
-#google_analytics: UA-XXXXX-X
-
-# social icons and sharing options
 
   - icon:	github
     url:	https://github.com/jihojhi
