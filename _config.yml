@@ -24,8 +24,6 @@ paginate:	5
 
 url: "https://jihojhi.github.io/" # the base hostname & protocol for your site
 baseurl: ""
-#used to display twitter cards
-twitter_handle: '@dirkfabisch'
 
 #fill in disqus shortname to use disqus
 #disqus: disqus-shortname
@@ -42,3 +40,10 @@ social:
     share_url:
     share_title:
     share_link:
+
+#  - icon:	google-plus
+#    url:	https://google.com/???
+#    desc:	Add me on google+
+#    share_url:
+#    share_title:
+#    share_link:
