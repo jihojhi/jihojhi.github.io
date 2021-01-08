@@ -34,13 +34,6 @@ twitter_handle: '@dirkfabisch'
 
 # social icons and sharing options
 
-  - icon:	instagram
-    url:	https://instagram.com/gem_vicky_0.o
-    desc: Connect with me instagram
-    share_url: 
-    share_title:
-    share_link:
-
   - icon:	github
     url:	https://github.com/jihojhi
     desc:	Fork me on github
