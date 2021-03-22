@@ -1,7 +1,7 @@
 ---
 layout: tag-list
 type: tag
-title: SpringBoot
+title: Spring Boot
 slug: spring Boot
 category: devlog
 sidebar: true
