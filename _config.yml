@@ -20,15 +20,15 @@
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 shsewonitw
+title:                 J Container
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Hi, Im jjang
+ 
 
 # A shorter description for the sidebar.
-tagline:               Incheon, Korea
+tagline:               There is no should have done it.
 
 # A list of keywords for your blog
 keywords:              [devlog]
@@ -36,13 +36,13 @@ keywords:              [devlog]
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  /assets/img/logo.png
+logo:                  /assets/img/profile.jpg
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name:                <Shin> <SeokWoo>
-  email:               <shsewonitw@gmail.com>
+  name:                <HyoJin> <Kim>
+  email:               <jihojhi@gmail.com>
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
@@ -87,13 +87,13 @@ remote_theme: hydecorp/hydejack@v9.1.2
 # ----------------------------------------------------------------------------------------
  
 # Sidebar image and theme color of the site.
-accent_image:          /assets/img/sidebar-bg2.jpg
-accent_color:          rgb(79,177,186)
+accent_image:          /assets/img/catback.jpg
+accent_color:          rgb(255,156,201)
 
 # This is used for the `theme-color` meta tag,
 # which changes the background color of the browser UI in certain browsers.
 # Defaults to `accent_color`.
-theme_color:           rgb(8,46,57)
+theme_color:           rgb(255,133,189)
 
 # The string encoding which fonts to fetch from Google Fonts.
 # See: <https://hydejack.com/docs/configuration/>
