@@ -1,7 +1,7 @@
 ---
 layout: tag-list
 type: tag
-title: Data_Structure
+title: Data Structure
 slug: dataStructure
 category: devlog
 sidebar: true
