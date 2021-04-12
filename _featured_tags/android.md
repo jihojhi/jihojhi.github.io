@@ -5,7 +5,7 @@ title: Android
 slug: android
 category: project
 sidebar: true
-order: 2
+order: 1
 description: >
    Dining Reserve Application Project
 ---

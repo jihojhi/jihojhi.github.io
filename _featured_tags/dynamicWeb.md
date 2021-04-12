@@ -5,7 +5,7 @@ title: Dynamic Web
 slug: dynamic web
 category: project
 sidebar: true
-order: 1
+order: 2
 description: >
    Dining Reserve Web Project
 ---
