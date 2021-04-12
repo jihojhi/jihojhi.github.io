@@ -1,2 +1,2 @@
-[![Screenshot](https://hydejack.com/assets/img/blogimg.png)][welcome]
+![Screenshot](https://jihojhi.github.io/assets/img/blogimg.PNG)
 
