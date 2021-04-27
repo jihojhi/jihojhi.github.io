@@ -1,11 +1,11 @@
 ---
 layout: tag-list
 type: tag
-title: Spring Boot
-slug: spring Boot
+title: Data Structure
+slug: dataStructure
 category: devlog
 sidebar: true
-order: 3
+order: 2
 description: >
-   SpringBoot Study
+   DataStructure study
 ---
