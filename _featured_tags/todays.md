@@ -1,11 +1,11 @@
 ---
 layout: tag-list
 type: tag
-title: Today's_Study
-slug: today's_study
+title: Study
+slug: study
 category: devlog
 sidebar: true
 order: 1
 description: >
-   Todays study about anything i nees
+   Study about anything i need
 ---
