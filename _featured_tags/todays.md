@@ -7,5 +7,5 @@ category: devlog
 sidebar: true
 order: 1
 description: >
-   Todays study about anything
+   Todays study about anything i nees
 ---
